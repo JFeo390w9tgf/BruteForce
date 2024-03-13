@@ -1,3 +1,4 @@
+# coded by -> ig : @hackie.techie
 import itertools
 
 def generate_passwords():
