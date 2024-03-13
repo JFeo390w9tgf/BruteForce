@@ -1,3 +1,5 @@
+# coded by -> ig : @hackie.techie
+
 import time
 from selenium import webdriver
 
