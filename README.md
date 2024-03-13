@@ -1,15 +1,25 @@
 # BruteForce
-Simple code to perform brute force Password (For Educational Purposes Only)
+Simple code to perform brute force Password (For Educational Purposes Only).
 
 How to use :
 ============
-git clone (url) -> to copy
+Copy the code
+```
+git clone https://github.com/JFeo390w9tgf/BruteForce.git
+```
+Go to folder directory
+```
+cd BruteForce
+```
+[OPTIONAL] Generate new password combination or you can use existing library passwords.txt
+```
+python3 generate
+```
+Lauch attack for specific login page
+```
+python3 pass
+```
 
-python3 generate -> to generate new password combination or use existing library passwords.txt
-
-python3 pass -> to lauch attack for specific login page
-
-
-**USE IT WISELY !!!**
+USE IT WISELY !!!
 ============
-- coded by -> ig : @hackie.techie
+- coded by -> ig : [@hackie.techie](https://instagram.com/hackie.techie/)
