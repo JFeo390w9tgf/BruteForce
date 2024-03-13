@@ -2,7 +2,7 @@ import time
 from selenium import webdriver
 
 def login_with_password(driver, username, password):
-    driver.get("https://aktivasi-tarif.aksespro.org:2083/")  # Replace with your login page URL
+    driver.get("https://put_your_url_here/")  # Replace with your login page URL
     driver.find_element("id", "user").send_keys(username)  # Replace "username" with the actual ID of the username input field
     driver.find_element("id", "pass").send_keys(password)  # Replace "password" with the actual ID of the password input field
     driver.find_element("id", "login_submit").click()  # Replace "login_button" with the actual ID of the login button
