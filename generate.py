@@ -7,7 +7,7 @@ def generate_passwords():
     # Open a file to write passwords
     with open('passwords.txt', 'w') as file:
         # Generate passwords of lengths from 3 to 12
-        for length in range(10, 13):
+        for length in range(3, 13):
             # Generate combinations of characters of current length
             for password in itertools.product(characters, repeat=length):
                 # Write the generated password to the file
