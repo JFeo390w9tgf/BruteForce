@@ -9,6 +9,6 @@ python3 generate -> to generate new password combination or use existing library
 
 python3 pass -> to lauch attack for specific login page
 
-============
 
-**USE IT WISELY**
+**USE IT WISELY !!!**
+============
